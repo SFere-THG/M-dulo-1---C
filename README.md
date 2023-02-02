@@ -1,2 +1,2 @@
 # CS50
- Exercicios aula 1
+ Exercícios Módulo 1: C
